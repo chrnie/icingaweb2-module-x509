@@ -133,7 +133,7 @@
                     "var_filter": null
                 }
             ],
-            "icon_image": "file-excel",
+            "icon_image": "iicon-certificate",
             "max_check_attempts": "3",
             "notes": "is used by hosts that come from the x509 Host Sync rule.",
             "notes_url": "https://icinga.com/docs/icinga-certificate-monitoring/latest/doc/10-Monitoring/",
@@ -285,7 +285,7 @@
             "uuid": "f957a69f-4fef-4fe6-8276-a23524a177ac",
             "varname": "icingacli_x509_host",
             "caption": "Hostname (x509)",
-            "description": "A hosts name",
+            "description": "A host's name",
             "datatype": "Icinga\\Module\\Director\\DataType\\DataTypeString",
             "format": null,
             "settings": {
@@ -297,7 +297,7 @@
             "uuid": "bd01291b-cdb9-491c-8c7b-f45243487526",
             "varname": "icingacli_x509_ip",
             "caption": "IP Address (x509)",
-            "description": "A hosts IP address",
+            "description": "A host's IP address",
             "datatype": "Icinga\\Module\\Director\\DataType\\DataTypeString",
             "format": null,
             "settings": {
